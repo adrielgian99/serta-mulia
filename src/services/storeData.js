@@ -4,8 +4,6 @@ async function storeData(id, data) {
 
  const db = new Firestore({
 
-databaseId: 'predictions'
-
 })
 }
 
